@@ -1,0 +1,2196 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": [
+    {
+      "timings": {
+        "Fajr": "06:21 (GMT)",
+        "Sunrise": "08:02 (GMT)",
+        "Dhuhr": "12:09 (GMT)",
+        "Asr": "13:56 (GMT)",
+        "Sunset": "16:16 (GMT)",
+        "Maghrib": "16:16 (GMT)",
+        "Isha": "17:57 (GMT)",
+        "Imsak": "06:11 (GMT)",
+        "Midnight": "00:09 (GMT)",
+        "Firstthird": "21:31 (GMT)",
+        "Lastthird": "02:47 (GMT)"
+      },
+      "date": {
+        "readable": "12 Jan 2016",
+        "timestamp": "1452589261",
+        "gregorian": {
+          "date": "12-01-2016",
+          "format": "DD-MM-YYYY",
+          "day": "12",
+          "weekday": { "en": "Tuesday" },
+          "month": { "number": 1, "en": "January" },
+          "year": "2016",
+          "designation": { "abbreviated": "AD", "expanded": "Anno Domini" }
+        },
+        "hijri": {
+          "date": "01-04-1437",
+          "format": "DD-MM-YYYY",
+          "day": "01",
+          "weekday": {
+            "en": "Al Thalaata",
+            "ar": "\u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rab\u012b\u02bf al-th\u0101n\u012b",
+            "ar": "\u0631\u064e\u0628\u064a\u0639 \u0627\u0644\u062b\u0627\u0646\u064a"
+          },
+          "year": "1437",
+          "designation": { "abbreviated": "AH", "expanded": "Anno Hegirae" },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 51.508515,
+        "longitude": -0.1254872,
+        "timezone": "Europe/London",
+        "method": {
+          "id": 2,
+          "name": "Islamic Society of North America (ISNA)",
+          "params": { "Fajr": 15, "Isha": 15 },
+          "location": {
+            "latitude": 39.70421229999999,
+            "longitude": -86.39943869999999
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "06:20 (GMT)",
+        "Sunrise": "08:02 (GMT)",
+        "Dhuhr": "12:09 (GMT)",
+        "Asr": "13:57 (GMT)",
+        "Sunset": "16:17 (GMT)",
+        "Maghrib": "16:17 (GMT)",
+        "Isha": "17:58 (GMT)",
+        "Imsak": "06:10 (GMT)",
+        "Midnight": "00:09 (GMT)",
+        "Firstthird": "21:32 (GMT)",
+        "Lastthird": "02:47 (GMT)"
+      },
+      "date": {
+        "readable": "13 Jan 2016",
+        "timestamp": "1452675661",
+        "gregorian": {
+          "date": "13-01-2016",
+          "format": "DD-MM-YYYY",
+          "day": "13",
+          "weekday": { "en": "Wednesday" },
+          "month": { "number": 1, "en": "January" },
+          "year": "2016",
+          "designation": { "abbreviated": "AD", "expanded": "Anno Domini" }
+        },
+        "hijri": {
+          "date": "02-04-1437",
+          "format": "DD-MM-YYYY",
+          "day": "02",
+          "weekday": {
+            "en": "Al Arba'a",
+            "ar": "\u0627\u0644\u0627\u0631\u0628\u0639\u0627\u0621"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rab\u012b\u02bf al-th\u0101n\u012b",
+            "ar": "\u0631\u064e\u0628\u064a\u0639 \u0627\u0644\u062b\u0627\u0646\u064a"
+          },
+          "year": "1437",
+          "designation": { "abbreviated": "AH", "expanded": "Anno Hegirae" },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 51.508515,
+        "longitude": -0.1254872,
+        "timezone": "Europe/London",
+        "method": {
+          "id": 2,
+          "name": "Islamic Society of North America (ISNA)",
+          "params": { "Fajr": 15, "Isha": 15 },
+          "location": {
+            "latitude": 39.70421229999999,
+            "longitude": -86.39943869999999
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "06:20 (GMT)",
+        "Sunrise": "08:01 (GMT)",
+        "Dhuhr": "12:09 (GMT)",
+        "Asr": "13:58 (GMT)",
+        "Sunset": "16:19 (GMT)",
+        "Maghrib": "16:19 (GMT)",
+        "Isha": "17:59 (GMT)",
+        "Imsak": "06:10 (GMT)",
+        "Midnight": "00:10 (GMT)",
+        "Firstthird": "21:33 (GMT)",
+        "Lastthird": "02:47 (GMT)"
+      },
+      "date": {
+        "readable": "14 Jan 2016",
+        "timestamp": "1452762061",
+        "gregorian": {
+          "date": "14-01-2016",
+          "format": "DD-MM-YYYY",
+          "day": "14",
+          "weekday": { "en": "Thursday" },
+          "month": { "number": 1, "en": "January" },
+          "year": "2016",
+          "designation": { "abbreviated": "AD", "expanded": "Anno Domini" }
+        },
+        "hijri": {
+          "date": "03-04-1437",
+          "format": "DD-MM-YYYY",
+          "day": "03",
+          "weekday": {
+            "en": "Al Khamees",
+            "ar": "\u0627\u0644\u062e\u0645\u064a\u0633"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rab\u012b\u02bf al-th\u0101n\u012b",
+            "ar": "\u0631\u064e\u0628\u064a\u0639 \u0627\u0644\u062b\u0627\u0646\u064a"
+          },
+          "year": "1437",
+          "designation": { "abbreviated": "AH", "expanded": "Anno Hegirae" },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 51.508515,
+        "longitude": -0.1254872,
+        "timezone": "Europe/London",
+        "method": {
+          "id": 2,
+          "name": "Islamic Society of North America (ISNA)",
+          "params": { "Fajr": 15, "Isha": 15 },
+          "location": {
+            "latitude": 39.70421229999999,
+            "longitude": -86.39943869999999
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "06:19 (GMT)",
+        "Sunrise": "08:00 (GMT)",
+        "Dhuhr": "12:10 (GMT)",
+        "Asr": "14:00 (GMT)",
+        "Sunset": "16:20 (GMT)",
+        "Maghrib": "16:20 (GMT)",
+        "Isha": "18:01 (GMT)",
+        "Imsak": "06:09 (GMT)",
+        "Midnight": "00:10 (GMT)",
+        "Firstthird": "21:33 (GMT)",
+        "Lastthird": "02:47 (GMT)"
+      },
+      "date": {
+        "readable": "15 Jan 2016",
+        "timestamp": "1452848461",
+        "gregorian": {
+          "date": "15-01-2016",
+          "format": "DD-MM-YYYY",
+          "day": "15",
+          "weekday": { "en": "Friday" },
+          "month": { "number": 1, "en": "January" },
+          "year": "2016",
+          "designation": { "abbreviated": "AD", "expanded": "Anno Domini" }
+        },
+        "hijri": {
+          "date": "04-04-1437",
+          "format": "DD-MM-YYYY",
+          "day": "04",
+          "weekday": {
+            "en": "Al Juma'a",
+            "ar": "\u0627\u0644\u062c\u0645\u0639\u0629"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rab\u012b\u02bf al-th\u0101n\u012b",
+            "ar": "\u0631\u064e\u0628\u064a\u0639 \u0627\u0644\u062b\u0627\u0646\u064a"
+          },
+          "year": "1437",
+          "designation": { "abbreviated": "AH", "expanded": "Anno Hegirae" },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 51.508515,
+        "longitude": -0.1254872,
+        "timezone": "Europe/London",
+        "method": {
+          "id": 2,
+          "name": "Islamic Society of North America (ISNA)",
+          "params": { "Fajr": 15, "Isha": 15 },
+          "location": {
+            "latitude": 39.70421229999999,
+            "longitude": -86.39943869999999
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "06:19 (GMT)",
+        "Sunrise": "07:59 (GMT)",
+        "Dhuhr": "12:10 (GMT)",
+        "Asr": "14:01 (GMT)",
+        "Sunset": "16:22 (GMT)",
+        "Maghrib": "16:22 (GMT)",
+        "Isha": "18:02 (GMT)",
+        "Imsak": "06:09 (GMT)",
+        "Midnight": "00:10 (GMT)",
+        "Firstthird": "21:34 (GMT)",
+        "Lastthird": "02:47 (GMT)"
+      },
+      "date": {
+        "readable": "16 Jan 2016",
+        "timestamp": "1452934861",
+        "gregorian": {
+          "date": "16-01-2016",
+          "format": "DD-MM-YYYY",
+          "day": "16",
+          "weekday": { "en": "Saturday" },
+          "month": { "number": 1, "en": "January" },
+          "year": "2016",
+          "designation": { "abbreviated": "AD", "expanded": "Anno Domini" }
+        },
+        "hijri": {
+          "date": "05-04-1437",
+          "format": "DD-MM-YYYY",
+          "day": "05",
+          "weekday": {
+            "en": "Al Sabt",
+            "ar": "\u0627\u0644\u0633\u0628\u062a"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rab\u012b\u02bf al-th\u0101n\u012b",
+            "ar": "\u0631\u064e\u0628\u064a\u0639 \u0627\u0644\u062b\u0627\u0646\u064a"
+          },
+          "year": "1437",
+          "designation": { "abbreviated": "AH", "expanded": "Anno Hegirae" },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 51.508515,
+        "longitude": -0.1254872,
+        "timezone": "Europe/London",
+        "method": {
+          "id": 2,
+          "name": "Islamic Society of North America (ISNA)",
+          "params": { "Fajr": 15, "Isha": 15 },
+          "location": {
+            "latitude": 39.70421229999999,
+            "longitude": -86.39943869999999
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "06:18 (GMT)",
+        "Sunrise": "07:58 (GMT)",
+        "Dhuhr": "12:10 (GMT)",
+        "Asr": "14:02 (GMT)",
+        "Sunset": "16:23 (GMT)",
+        "Maghrib": "16:23 (GMT)",
+        "Isha": "18:03 (GMT)",
+        "Imsak": "06:08 (GMT)",
+        "Midnight": "00:11 (GMT)",
+        "Firstthird": "21:35 (GMT)",
+        "Lastthird": "02:47 (GMT)"
+      },
+      "date": {
+        "readable": "17 Jan 2016",
+        "timestamp": "1453021261",
+        "gregorian": {
+          "date": "17-01-2016",
+          "format": "DD-MM-YYYY",
+          "day": "17",
+          "weekday": { "en": "Sunday" },
+          "month": { "number": 1, "en": "January" },
+          "year": "2016",
+          "designation": { "abbreviated": "AD", "expanded": "Anno Domini" }
+        },
+        "hijri": {
+          "date": "06-04-1437",
+          "format": "DD-MM-YYYY",
+          "day": "06",
+          "weekday": {
+            "en": "Al Ahad",
+            "ar": "\u0627\u0644\u0627\u062d\u062f"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rab\u012b\u02bf al-th\u0101n\u012b",
+            "ar": "\u0631\u064e\u0628\u064a\u0639 \u0627\u0644\u062b\u0627\u0646\u064a"
+          },
+          "year": "1437",
+          "designation": { "abbreviated": "AH", "expanded": "Anno Hegirae" },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 51.508515,
+        "longitude": -0.1254872,
+        "timezone": "Europe/London",
+        "method": {
+          "id": 2,
+          "name": "Islamic Society of North America (ISNA)",
+          "params": { "Fajr": 15, "Isha": 15 },
+          "location": {
+            "latitude": 39.70421229999999,
+            "longitude": -86.39943869999999
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "06:17 (GMT)",
+        "Sunrise": "07:57 (GMT)",
+        "Dhuhr": "12:11 (GMT)",
+        "Asr": "14:03 (GMT)",
+        "Sunset": "16:25 (GMT)",
+        "Maghrib": "16:25 (GMT)",
+        "Isha": "18:05 (GMT)",
+        "Imsak": "06:07 (GMT)",
+        "Midnight": "00:11 (GMT)",
+        "Firstthird": "21:36 (GMT)",
+        "Lastthird": "02:46 (GMT)"
+      },
+      "date": {
+        "readable": "18 Jan 2016",
+        "timestamp": "1453107661",
+        "gregorian": {
+          "date": "18-01-2016",
+          "format": "DD-MM-YYYY",
+          "day": "18",
+          "weekday": { "en": "Monday" },
+          "month": { "number": 1, "en": "January" },
+          "year": "2016",
+          "designation": { "abbreviated": "AD", "expanded": "Anno Domini" }
+        },
+        "hijri": {
+          "date": "07-04-1437",
+          "format": "DD-MM-YYYY",
+          "day": "07",
+          "weekday": {
+            "en": "Al Athnayn",
+            "ar": "\u0627\u0644\u0627\u062b\u0646\u064a\u0646"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rab\u012b\u02bf al-th\u0101n\u012b",
+            "ar": "\u0631\u064e\u0628\u064a\u0639 \u0627\u0644\u062b\u0627\u0646\u064a"
+          },
+          "year": "1437",
+          "designation": { "abbreviated": "AH", "expanded": "Anno Hegirae" },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 51.508515,
+        "longitude": -0.1254872,
+        "timezone": "Europe/London",
+        "method": {
+          "id": 2,
+          "name": "Islamic Society of North America (ISNA)",
+          "params": { "Fajr": 15, "Isha": 15 },
+          "location": {
+            "latitude": 39.70421229999999,
+            "longitude": -86.39943869999999
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "06:17 (GMT)",
+        "Sunrise": "07:56 (GMT)",
+        "Dhuhr": "12:11 (GMT)",
+        "Asr": "14:05 (GMT)",
+        "Sunset": "16:26 (GMT)",
+        "Maghrib": "16:26 (GMT)",
+        "Isha": "18:06 (GMT)",
+        "Imsak": "06:07 (GMT)",
+        "Midnight": "00:11 (GMT)",
+        "Firstthird": "21:36 (GMT)",
+        "Lastthird": "02:46 (GMT)"
+      },
+      "date": {
+        "readable": "19 Jan 2016",
+        "timestamp": "1453194061",
+        "gregorian": {
+          "date": "19-01-2016",
+          "format": "DD-MM-YYYY",
+          "day": "19",
+          "weekday": { "en": "Tuesday" },
+          "month": { "number": 1, "en": "January" },
+          "year": "2016",
+          "designation": { "abbreviated": "AD", "expanded": "Anno Domini" }
+        },
+        "hijri": {
+          "date": "08-04-1437",
+          "format": "DD-MM-YYYY",
+          "day": "08",
+          "weekday": {
+            "en": "Al Thalaata",
+            "ar": "\u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rab\u012b\u02bf al-th\u0101n\u012b",
+            "ar": "\u0631\u064e\u0628\u064a\u0639 \u0627\u0644\u062b\u0627\u0646\u064a"
+          },
+          "year": "1437",
+          "designation": { "abbreviated": "AH", "expanded": "Anno Hegirae" },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 51.508515,
+        "longitude": -0.1254872,
+        "timezone": "Europe/London",
+        "method": {
+          "id": 2,
+          "name": "Islamic Society of North America (ISNA)",
+          "params": { "Fajr": 15, "Isha": 15 },
+          "location": {
+            "latitude": 39.70421229999999,
+            "longitude": -86.39943869999999
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "06:16 (GMT)",
+        "Sunrise": "07:55 (GMT)",
+        "Dhuhr": "12:11 (GMT)",
+        "Asr": "14:06 (GMT)",
+        "Sunset": "16:28 (GMT)",
+        "Maghrib": "16:28 (GMT)",
+        "Isha": "18:07 (GMT)",
+        "Imsak": "06:06 (GMT)",
+        "Midnight": "00:12 (GMT)",
+        "Firstthird": "21:37 (GMT)",
+        "Lastthird": "02:46 (GMT)"
+      },
+      "date": {
+        "readable": "20 Jan 2016",
+        "timestamp": "1453280461",
+        "gregorian": {
+          "date": "20-01-2016",
+          "format": "DD-MM-YYYY",
+          "day": "20",
+          "weekday": { "en": "Wednesday" },
+          "month": { "number": 1, "en": "January" },
+          "year": "2016",
+          "designation": { "abbreviated": "AD", "expanded": "Anno Domini" }
+        },
+        "hijri": {
+          "date": "09-04-1437",
+          "format": "DD-MM-YYYY",
+          "day": "09",
+          "weekday": {
+            "en": "Al Arba'a",
+            "ar": "\u0627\u0644\u0627\u0631\u0628\u0639\u0627\u0621"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rab\u012b\u02bf al-th\u0101n\u012b",
+            "ar": "\u0631\u064e\u0628\u064a\u0639 \u0627\u0644\u062b\u0627\u0646\u064a"
+          },
+          "year": "1437",
+          "designation": { "abbreviated": "AH", "expanded": "Anno Hegirae" },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 51.508515,
+        "longitude": -0.1254872,
+        "timezone": "Europe/London",
+        "method": {
+          "id": 2,
+          "name": "Islamic Society of North America (ISNA)",
+          "params": { "Fajr": 15, "Isha": 15 },
+          "location": {
+            "latitude": 39.70421229999999,
+            "longitude": -86.39943869999999
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "06:15 (GMT)",
+        "Sunrise": "07:54 (GMT)",
+        "Dhuhr": "12:12 (GMT)",
+        "Asr": "14:07 (GMT)",
+        "Sunset": "16:30 (GMT)",
+        "Maghrib": "16:30 (GMT)",
+        "Isha": "18:09 (GMT)",
+        "Imsak": "06:05 (GMT)",
+        "Midnight": "00:12 (GMT)",
+        "Firstthird": "21:38 (GMT)",
+        "Lastthird": "02:46 (GMT)"
+      },
+      "date": {
+        "readable": "21 Jan 2016",
+        "timestamp": "1453366861",
+        "gregorian": {
+          "date": "21-01-2016",
+          "format": "DD-MM-YYYY",
+          "day": "21",
+          "weekday": { "en": "Thursday" },
+          "month": { "number": 1, "en": "January" },
+          "year": "2016",
+          "designation": { "abbreviated": "AD", "expanded": "Anno Domini" }
+        },
+        "hijri": {
+          "date": "10-04-1437",
+          "format": "DD-MM-YYYY",
+          "day": "10",
+          "weekday": {
+            "en": "Al Khamees",
+            "ar": "\u0627\u0644\u062e\u0645\u064a\u0633"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rab\u012b\u02bf al-th\u0101n\u012b",
+            "ar": "\u0631\u064e\u0628\u064a\u0639 \u0627\u0644\u062b\u0627\u0646\u064a"
+          },
+          "year": "1437",
+          "designation": { "abbreviated": "AH", "expanded": "Anno Hegirae" },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 51.508515,
+        "longitude": -0.1254872,
+        "timezone": "Europe/London",
+        "method": {
+          "id": 2,
+          "name": "Islamic Society of North America (ISNA)",
+          "params": { "Fajr": 15, "Isha": 15 },
+          "location": {
+            "latitude": 39.70421229999999,
+            "longitude": -86.39943869999999
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "06:14 (GMT)",
+        "Sunrise": "07:53 (GMT)",
+        "Dhuhr": "12:12 (GMT)",
+        "Asr": "14:09 (GMT)",
+        "Sunset": "16:31 (GMT)",
+        "Maghrib": "16:31 (GMT)",
+        "Isha": "18:10 (GMT)",
+        "Imsak": "06:04 (GMT)",
+        "Midnight": "00:12 (GMT)",
+        "Firstthird": "21:39 (GMT)",
+        "Lastthird": "02:46 (GMT)"
+      },
+      "date": {
+        "readable": "22 Jan 2016",
+        "timestamp": "1453453261",
+        "gregorian": {
+          "date": "22-01-2016",
+          "format": "DD-MM-YYYY",
+          "day": "22",
+          "weekday": { "en": "Friday" },
+          "month": { "number": 1, "en": "January" },
+          "year": "2016",
+          "designation": { "abbreviated": "AD", "expanded": "Anno Domini" }
+        },
+        "hijri": {
+          "date": "11-04-1437",
+          "format": "DD-MM-YYYY",
+          "day": "11",
+          "weekday": {
+            "en": "Al Juma'a",
+            "ar": "\u0627\u0644\u062c\u0645\u0639\u0629"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rab\u012b\u02bf al-th\u0101n\u012b",
+            "ar": "\u0631\u064e\u0628\u064a\u0639 \u0627\u0644\u062b\u0627\u0646\u064a"
+          },
+          "year": "1437",
+          "designation": { "abbreviated": "AH", "expanded": "Anno Hegirae" },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 51.508515,
+        "longitude": -0.1254872,
+        "timezone": "Europe/London",
+        "method": {
+          "id": 2,
+          "name": "Islamic Society of North America (ISNA)",
+          "params": { "Fajr": 15, "Isha": 15 },
+          "location": {
+            "latitude": 39.70421229999999,
+            "longitude": -86.39943869999999
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "06:13 (GMT)",
+        "Sunrise": "07:52 (GMT)",
+        "Dhuhr": "12:12 (GMT)",
+        "Asr": "14:10 (GMT)",
+        "Sunset": "16:33 (GMT)",
+        "Maghrib": "16:33 (GMT)",
+        "Isha": "18:12 (GMT)",
+        "Imsak": "06:03 (GMT)",
+        "Midnight": "00:13 (GMT)",
+        "Firstthird": "21:39 (GMT)",
+        "Lastthird": "02:46 (GMT)"
+      },
+      "date": {
+        "readable": "23 Jan 2016",
+        "timestamp": "1453539661",
+        "gregorian": {
+          "date": "23-01-2016",
+          "format": "DD-MM-YYYY",
+          "day": "23",
+          "weekday": { "en": "Saturday" },
+          "month": { "number": 1, "en": "January" },
+          "year": "2016",
+          "designation": { "abbreviated": "AD", "expanded": "Anno Domini" }
+        },
+        "hijri": {
+          "date": "12-04-1437",
+          "format": "DD-MM-YYYY",
+          "day": "12",
+          "weekday": {
+            "en": "Al Sabt",
+            "ar": "\u0627\u0644\u0633\u0628\u062a"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rab\u012b\u02bf al-th\u0101n\u012b",
+            "ar": "\u0631\u064e\u0628\u064a\u0639 \u0627\u0644\u062b\u0627\u0646\u064a"
+          },
+          "year": "1437",
+          "designation": { "abbreviated": "AH", "expanded": "Anno Hegirae" },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 51.508515,
+        "longitude": -0.1254872,
+        "timezone": "Europe/London",
+        "method": {
+          "id": 2,
+          "name": "Islamic Society of North America (ISNA)",
+          "params": { "Fajr": 15, "Isha": 15 },
+          "location": {
+            "latitude": 39.70421229999999,
+            "longitude": -86.39943869999999
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "06:13 (GMT)",
+        "Sunrise": "07:51 (GMT)",
+        "Dhuhr": "12:12 (GMT)",
+        "Asr": "14:12 (GMT)",
+        "Sunset": "16:35 (GMT)",
+        "Maghrib": "16:35 (GMT)",
+        "Isha": "18:13 (GMT)",
+        "Imsak": "06:03 (GMT)",
+        "Midnight": "00:13 (GMT)",
+        "Firstthird": "21:40 (GMT)",
+        "Lastthird": "02:45 (GMT)"
+      },
+      "date": {
+        "readable": "24 Jan 2016",
+        "timestamp": "1453626061",
+        "gregorian": {
+          "date": "24-01-2016",
+          "format": "DD-MM-YYYY",
+          "day": "24",
+          "weekday": { "en": "Sunday" },
+          "month": { "number": 1, "en": "January" },
+          "year": "2016",
+          "designation": { "abbreviated": "AD", "expanded": "Anno Domini" }
+        },
+        "hijri": {
+          "date": "13-04-1437",
+          "format": "DD-MM-YYYY",
+          "day": "13",
+          "weekday": {
+            "en": "Al Ahad",
+            "ar": "\u0627\u0644\u0627\u062d\u062f"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rab\u012b\u02bf al-th\u0101n\u012b",
+            "ar": "\u0631\u064e\u0628\u064a\u0639 \u0627\u0644\u062b\u0627\u0646\u064a"
+          },
+          "year": "1437",
+          "designation": { "abbreviated": "AH", "expanded": "Anno Hegirae" },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 51.508515,
+        "longitude": -0.1254872,
+        "timezone": "Europe/London",
+        "method": {
+          "id": 2,
+          "name": "Islamic Society of North America (ISNA)",
+          "params": { "Fajr": 15, "Isha": 15 },
+          "location": {
+            "latitude": 39.70421229999999,
+            "longitude": -86.39943869999999
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "06:12 (GMT)",
+        "Sunrise": "07:50 (GMT)",
+        "Dhuhr": "12:13 (GMT)",
+        "Asr": "14:13 (GMT)",
+        "Sunset": "16:37 (GMT)",
+        "Maghrib": "16:37 (GMT)",
+        "Isha": "18:14 (GMT)",
+        "Imsak": "06:02 (GMT)",
+        "Midnight": "00:13 (GMT)",
+        "Firstthird": "21:41 (GMT)",
+        "Lastthird": "02:45 (GMT)"
+      },
+      "date": {
+        "readable": "25 Jan 2016",
+        "timestamp": "1453712461",
+        "gregorian": {
+          "date": "25-01-2016",
+          "format": "DD-MM-YYYY",
+          "day": "25",
+          "weekday": { "en": "Monday" },
+          "month": { "number": 1, "en": "January" },
+          "year": "2016",
+          "designation": { "abbreviated": "AD", "expanded": "Anno Domini" }
+        },
+        "hijri": {
+          "date": "14-04-1437",
+          "format": "DD-MM-YYYY",
+          "day": "14",
+          "weekday": {
+            "en": "Al Athnayn",
+            "ar": "\u0627\u0644\u0627\u062b\u0646\u064a\u0646"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rab\u012b\u02bf al-th\u0101n\u012b",
+            "ar": "\u0631\u064e\u0628\u064a\u0639 \u0627\u0644\u062b\u0627\u0646\u064a"
+          },
+          "year": "1437",
+          "designation": { "abbreviated": "AH", "expanded": "Anno Hegirae" },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 51.508515,
+        "longitude": -0.1254872,
+        "timezone": "Europe/London",
+        "method": {
+          "id": 2,
+          "name": "Islamic Society of North America (ISNA)",
+          "params": { "Fajr": 15, "Isha": 15 },
+          "location": {
+            "latitude": 39.70421229999999,
+            "longitude": -86.39943869999999
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "06:11 (GMT)",
+        "Sunrise": "07:48 (GMT)",
+        "Dhuhr": "12:13 (GMT)",
+        "Asr": "14:14 (GMT)",
+        "Sunset": "16:38 (GMT)",
+        "Maghrib": "16:38 (GMT)",
+        "Isha": "18:16 (GMT)",
+        "Imsak": "06:01 (GMT)",
+        "Midnight": "00:13 (GMT)",
+        "Firstthird": "21:42 (GMT)",
+        "Lastthird": "02:45 (GMT)"
+      },
+      "date": {
+        "readable": "26 Jan 2016",
+        "timestamp": "1453798861",
+        "gregorian": {
+          "date": "26-01-2016",
+          "format": "DD-MM-YYYY",
+          "day": "26",
+          "weekday": { "en": "Tuesday" },
+          "month": { "number": 1, "en": "January" },
+          "year": "2016",
+          "designation": { "abbreviated": "AD", "expanded": "Anno Domini" }
+        },
+        "hijri": {
+          "date": "15-04-1437",
+          "format": "DD-MM-YYYY",
+          "day": "15",
+          "weekday": {
+            "en": "Al Thalaata",
+            "ar": "\u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rab\u012b\u02bf al-th\u0101n\u012b",
+            "ar": "\u0631\u064e\u0628\u064a\u0639 \u0627\u0644\u062b\u0627\u0646\u064a"
+          },
+          "year": "1437",
+          "designation": { "abbreviated": "AH", "expanded": "Anno Hegirae" },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 51.508515,
+        "longitude": -0.1254872,
+        "timezone": "Europe/London",
+        "method": {
+          "id": 2,
+          "name": "Islamic Society of North America (ISNA)",
+          "params": { "Fajr": 15, "Isha": 15 },
+          "location": {
+            "latitude": 39.70421229999999,
+            "longitude": -86.39943869999999
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "06:10 (GMT)",
+        "Sunrise": "07:47 (GMT)",
+        "Dhuhr": "12:13 (GMT)",
+        "Asr": "14:16 (GMT)",
+        "Sunset": "16:40 (GMT)",
+        "Maghrib": "16:40 (GMT)",
+        "Isha": "18:17 (GMT)",
+        "Imsak": "06:00 (GMT)",
+        "Midnight": "00:14 (GMT)",
+        "Firstthird": "21:42 (GMT)",
+        "Lastthird": "02:45 (GMT)"
+      },
+      "date": {
+        "readable": "27 Jan 2016",
+        "timestamp": "1453885261",
+        "gregorian": {
+          "date": "27-01-2016",
+          "format": "DD-MM-YYYY",
+          "day": "27",
+          "weekday": { "en": "Wednesday" },
+          "month": { "number": 1, "en": "January" },
+          "year": "2016",
+          "designation": { "abbreviated": "AD", "expanded": "Anno Domini" }
+        },
+        "hijri": {
+          "date": "16-04-1437",
+          "format": "DD-MM-YYYY",
+          "day": "16",
+          "weekday": {
+            "en": "Al Arba'a",
+            "ar": "\u0627\u0644\u0627\u0631\u0628\u0639\u0627\u0621"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rab\u012b\u02bf al-th\u0101n\u012b",
+            "ar": "\u0631\u064e\u0628\u064a\u0639 \u0627\u0644\u062b\u0627\u0646\u064a"
+          },
+          "year": "1437",
+          "designation": { "abbreviated": "AH", "expanded": "Anno Hegirae" },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 51.508515,
+        "longitude": -0.1254872,
+        "timezone": "Europe/London",
+        "method": {
+          "id": 2,
+          "name": "Islamic Society of North America (ISNA)",
+          "params": { "Fajr": 15, "Isha": 15 },
+          "location": {
+            "latitude": 39.70421229999999,
+            "longitude": -86.39943869999999
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "06:08 (GMT)",
+        "Sunrise": "07:46 (GMT)",
+        "Dhuhr": "12:13 (GMT)",
+        "Asr": "14:17 (GMT)",
+        "Sunset": "16:42 (GMT)",
+        "Maghrib": "16:42 (GMT)",
+        "Isha": "18:19 (GMT)",
+        "Imsak": "05:58 (GMT)",
+        "Midnight": "00:14 (GMT)",
+        "Firstthird": "21:43 (GMT)",
+        "Lastthird": "02:44 (GMT)"
+      },
+      "date": {
+        "readable": "28 Jan 2016",
+        "timestamp": "1453971661",
+        "gregorian": {
+          "date": "28-01-2016",
+          "format": "DD-MM-YYYY",
+          "day": "28",
+          "weekday": { "en": "Thursday" },
+          "month": { "number": 1, "en": "January" },
+          "year": "2016",
+          "designation": { "abbreviated": "AD", "expanded": "Anno Domini" }
+        },
+        "hijri": {
+          "date": "17-04-1437",
+          "format": "DD-MM-YYYY",
+          "day": "17",
+          "weekday": {
+            "en": "Al Khamees",
+            "ar": "\u0627\u0644\u062e\u0645\u064a\u0633"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rab\u012b\u02bf al-th\u0101n\u012b",
+            "ar": "\u0631\u064e\u0628\u064a\u0639 \u0627\u0644\u062b\u0627\u0646\u064a"
+          },
+          "year": "1437",
+          "designation": { "abbreviated": "AH", "expanded": "Anno Hegirae" },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 51.508515,
+        "longitude": -0.1254872,
+        "timezone": "Europe/London",
+        "method": {
+          "id": 2,
+          "name": "Islamic Society of North America (ISNA)",
+          "params": { "Fajr": 15, "Isha": 15 },
+          "location": {
+            "latitude": 39.70421229999999,
+            "longitude": -86.39943869999999
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "06:07 (GMT)",
+        "Sunrise": "07:44 (GMT)",
+        "Dhuhr": "12:14 (GMT)",
+        "Asr": "14:19 (GMT)",
+        "Sunset": "16:44 (GMT)",
+        "Maghrib": "16:44 (GMT)",
+        "Isha": "18:20 (GMT)",
+        "Imsak": "05:57 (GMT)",
+        "Midnight": "00:14 (GMT)",
+        "Firstthird": "21:44 (GMT)",
+        "Lastthird": "02:44 (GMT)"
+      },
+      "date": {
+        "readable": "29 Jan 2016",
+        "timestamp": "1454058061",
+        "gregorian": {
+          "date": "29-01-2016",
+          "format": "DD-MM-YYYY",
+          "day": "29",
+          "weekday": { "en": "Friday" },
+          "month": { "number": 1, "en": "January" },
+          "year": "2016",
+          "designation": { "abbreviated": "AD", "expanded": "Anno Domini" }
+        },
+        "hijri": {
+          "date": "18-04-1437",
+          "format": "DD-MM-YYYY",
+          "day": "18",
+          "weekday": {
+            "en": "Al Juma'a",
+            "ar": "\u0627\u0644\u062c\u0645\u0639\u0629"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rab\u012b\u02bf al-th\u0101n\u012b",
+            "ar": "\u0631\u064e\u0628\u064a\u0639 \u0627\u0644\u062b\u0627\u0646\u064a"
+          },
+          "year": "1437",
+          "designation": { "abbreviated": "AH", "expanded": "Anno Hegirae" },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 51.508515,
+        "longitude": -0.1254872,
+        "timezone": "Europe/London",
+        "method": {
+          "id": 2,
+          "name": "Islamic Society of North America (ISNA)",
+          "params": { "Fajr": 15, "Isha": 15 },
+          "location": {
+            "latitude": 39.70421229999999,
+            "longitude": -86.39943869999999
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "06:06 (GMT)",
+        "Sunrise": "07:43 (GMT)",
+        "Dhuhr": "12:14 (GMT)",
+        "Asr": "14:20 (GMT)",
+        "Sunset": "16:45 (GMT)",
+        "Maghrib": "16:45 (GMT)",
+        "Isha": "18:22 (GMT)",
+        "Imsak": "05:56 (GMT)",
+        "Midnight": "00:14 (GMT)",
+        "Firstthird": "21:45 (GMT)",
+        "Lastthird": "02:44 (GMT)"
+      },
+      "date": {
+        "readable": "30 Jan 2016",
+        "timestamp": "1454144461",
+        "gregorian": {
+          "date": "30-01-2016",
+          "format": "DD-MM-YYYY",
+          "day": "30",
+          "weekday": { "en": "Saturday" },
+          "month": { "number": 1, "en": "January" },
+          "year": "2016",
+          "designation": { "abbreviated": "AD", "expanded": "Anno Domini" }
+        },
+        "hijri": {
+          "date": "19-04-1437",
+          "format": "DD-MM-YYYY",
+          "day": "19",
+          "weekday": {
+            "en": "Al Sabt",
+            "ar": "\u0627\u0644\u0633\u0628\u062a"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rab\u012b\u02bf al-th\u0101n\u012b",
+            "ar": "\u0631\u064e\u0628\u064a\u0639 \u0627\u0644\u062b\u0627\u0646\u064a"
+          },
+          "year": "1437",
+          "designation": { "abbreviated": "AH", "expanded": "Anno Hegirae" },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 51.508515,
+        "longitude": -0.1254872,
+        "timezone": "Europe/London",
+        "method": {
+          "id": 2,
+          "name": "Islamic Society of North America (ISNA)",
+          "params": { "Fajr": 15, "Isha": 15 },
+          "location": {
+            "latitude": 39.70421229999999,
+            "longitude": -86.39943869999999
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "06:05 (GMT)",
+        "Sunrise": "07:41 (GMT)",
+        "Dhuhr": "12:14 (GMT)",
+        "Asr": "14:22 (GMT)",
+        "Sunset": "16:47 (GMT)",
+        "Maghrib": "16:47 (GMT)",
+        "Isha": "18:24 (GMT)",
+        "Imsak": "05:55 (GMT)",
+        "Midnight": "00:14 (GMT)",
+        "Firstthird": "21:45 (GMT)",
+        "Lastthird": "02:43 (GMT)"
+      },
+      "date": {
+        "readable": "31 Jan 2016",
+        "timestamp": "1454230861",
+        "gregorian": {
+          "date": "31-01-2016",
+          "format": "DD-MM-YYYY",
+          "day": "31",
+          "weekday": { "en": "Sunday" },
+          "month": { "number": 1, "en": "January" },
+          "year": "2016",
+          "designation": { "abbreviated": "AD", "expanded": "Anno Domini" }
+        },
+        "hijri": {
+          "date": "20-04-1437",
+          "format": "DD-MM-YYYY",
+          "day": "20",
+          "weekday": {
+            "en": "Al Ahad",
+            "ar": "\u0627\u0644\u0627\u062d\u062f"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rab\u012b\u02bf al-th\u0101n\u012b",
+            "ar": "\u0631\u064e\u0628\u064a\u0639 \u0627\u0644\u062b\u0627\u0646\u064a"
+          },
+          "year": "1437",
+          "designation": { "abbreviated": "AH", "expanded": "Anno Hegirae" },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 51.508515,
+        "longitude": -0.1254872,
+        "timezone": "Europe/London",
+        "method": {
+          "id": 2,
+          "name": "Islamic Society of North America (ISNA)",
+          "params": { "Fajr": 15, "Isha": 15 },
+          "location": {
+            "latitude": 39.70421229999999,
+            "longitude": -86.39943869999999
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "06:04 (GMT)",
+        "Sunrise": "07:40 (GMT)",
+        "Dhuhr": "12:14 (GMT)",
+        "Asr": "14:23 (GMT)",
+        "Sunset": "16:49 (GMT)",
+        "Maghrib": "16:49 (GMT)",
+        "Isha": "18:25 (GMT)",
+        "Imsak": "05:54 (GMT)",
+        "Midnight": "00:14 (GMT)",
+        "Firstthird": "21:46 (GMT)",
+        "Lastthird": "02:43 (GMT)"
+      },
+      "date": {
+        "readable": "01 Feb 2016",
+        "timestamp": "1454317261",
+        "gregorian": {
+          "date": "01-02-2016",
+          "format": "DD-MM-YYYY",
+          "day": "01",
+          "weekday": { "en": "Monday" },
+          "month": { "number": 2, "en": "February" },
+          "year": "2016",
+          "designation": { "abbreviated": "AD", "expanded": "Anno Domini" }
+        },
+        "hijri": {
+          "date": "21-04-1437",
+          "format": "DD-MM-YYYY",
+          "day": "21",
+          "weekday": {
+            "en": "Al Athnayn",
+            "ar": "\u0627\u0644\u0627\u062b\u0646\u064a\u0646"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rab\u012b\u02bf al-th\u0101n\u012b",
+            "ar": "\u0631\u064e\u0628\u064a\u0639 \u0627\u0644\u062b\u0627\u0646\u064a"
+          },
+          "year": "1437",
+          "designation": { "abbreviated": "AH", "expanded": "Anno Hegirae" },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 51.508515,
+        "longitude": -0.1254872,
+        "timezone": "Europe/London",
+        "method": {
+          "id": 2,
+          "name": "Islamic Society of North America (ISNA)",
+          "params": { "Fajr": 15, "Isha": 15 },
+          "location": {
+            "latitude": 39.70421229999999,
+            "longitude": -86.39943869999999
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "06:02 (GMT)",
+        "Sunrise": "07:38 (GMT)",
+        "Dhuhr": "12:14 (GMT)",
+        "Asr": "14:25 (GMT)",
+        "Sunset": "16:51 (GMT)",
+        "Maghrib": "16:51 (GMT)",
+        "Isha": "18:27 (GMT)",
+        "Imsak": "05:52 (GMT)",
+        "Midnight": "00:15 (GMT)",
+        "Firstthird": "21:47 (GMT)",
+        "Lastthird": "02:42 (GMT)"
+      },
+      "date": {
+        "readable": "02 Feb 2016",
+        "timestamp": "1454403661",
+        "gregorian": {
+          "date": "02-02-2016",
+          "format": "DD-MM-YYYY",
+          "day": "02",
+          "weekday": { "en": "Tuesday" },
+          "month": { "number": 2, "en": "February" },
+          "year": "2016",
+          "designation": { "abbreviated": "AD", "expanded": "Anno Domini" }
+        },
+        "hijri": {
+          "date": "22-04-1437",
+          "format": "DD-MM-YYYY",
+          "day": "22",
+          "weekday": {
+            "en": "Al Thalaata",
+            "ar": "\u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rab\u012b\u02bf al-th\u0101n\u012b",
+            "ar": "\u0631\u064e\u0628\u064a\u0639 \u0627\u0644\u062b\u0627\u0646\u064a"
+          },
+          "year": "1437",
+          "designation": { "abbreviated": "AH", "expanded": "Anno Hegirae" },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 51.508515,
+        "longitude": -0.1254872,
+        "timezone": "Europe/London",
+        "method": {
+          "id": 2,
+          "name": "Islamic Society of North America (ISNA)",
+          "params": { "Fajr": 15, "Isha": 15 },
+          "location": {
+            "latitude": 39.70421229999999,
+            "longitude": -86.39943869999999
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "06:01 (GMT)",
+        "Sunrise": "07:37 (GMT)",
+        "Dhuhr": "12:14 (GMT)",
+        "Asr": "14:26 (GMT)",
+        "Sunset": "16:53 (GMT)",
+        "Maghrib": "16:53 (GMT)",
+        "Isha": "18:28 (GMT)",
+        "Imsak": "05:51 (GMT)",
+        "Midnight": "00:15 (GMT)",
+        "Firstthird": "21:47 (GMT)",
+        "Lastthird": "02:42 (GMT)"
+      },
+      "date": {
+        "readable": "03 Feb 2016",
+        "timestamp": "1454490061",
+        "gregorian": {
+          "date": "03-02-2016",
+          "format": "DD-MM-YYYY",
+          "day": "03",
+          "weekday": { "en": "Wednesday" },
+          "month": { "number": 2, "en": "February" },
+          "year": "2016",
+          "designation": { "abbreviated": "AD", "expanded": "Anno Domini" }
+        },
+        "hijri": {
+          "date": "23-04-1437",
+          "format": "DD-MM-YYYY",
+          "day": "23",
+          "weekday": {
+            "en": "Al Arba'a",
+            "ar": "\u0627\u0644\u0627\u0631\u0628\u0639\u0627\u0621"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rab\u012b\u02bf al-th\u0101n\u012b",
+            "ar": "\u0631\u064e\u0628\u064a\u0639 \u0627\u0644\u062b\u0627\u0646\u064a"
+          },
+          "year": "1437",
+          "designation": { "abbreviated": "AH", "expanded": "Anno Hegirae" },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 51.508515,
+        "longitude": -0.1254872,
+        "timezone": "Europe/London",
+        "method": {
+          "id": 2,
+          "name": "Islamic Society of North America (ISNA)",
+          "params": { "Fajr": 15, "Isha": 15 },
+          "location": {
+            "latitude": 39.70421229999999,
+            "longitude": -86.39943869999999
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "06:00 (GMT)",
+        "Sunrise": "07:35 (GMT)",
+        "Dhuhr": "12:14 (GMT)",
+        "Asr": "14:27 (GMT)",
+        "Sunset": "16:54 (GMT)",
+        "Maghrib": "16:54 (GMT)",
+        "Isha": "18:30 (GMT)",
+        "Imsak": "05:50 (GMT)",
+        "Midnight": "00:15 (GMT)",
+        "Firstthird": "21:48 (GMT)",
+        "Lastthird": "02:42 (GMT)"
+      },
+      "date": {
+        "readable": "04 Feb 2016",
+        "timestamp": "1454576461",
+        "gregorian": {
+          "date": "04-02-2016",
+          "format": "DD-MM-YYYY",
+          "day": "04",
+          "weekday": { "en": "Thursday" },
+          "month": { "number": 2, "en": "February" },
+          "year": "2016",
+          "designation": { "abbreviated": "AD", "expanded": "Anno Domini" }
+        },
+        "hijri": {
+          "date": "24-04-1437",
+          "format": "DD-MM-YYYY",
+          "day": "24",
+          "weekday": {
+            "en": "Al Khamees",
+            "ar": "\u0627\u0644\u062e\u0645\u064a\u0633"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rab\u012b\u02bf al-th\u0101n\u012b",
+            "ar": "\u0631\u064e\u0628\u064a\u0639 \u0627\u0644\u062b\u0627\u0646\u064a"
+          },
+          "year": "1437",
+          "designation": { "abbreviated": "AH", "expanded": "Anno Hegirae" },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 51.508515,
+        "longitude": -0.1254872,
+        "timezone": "Europe/London",
+        "method": {
+          "id": 2,
+          "name": "Islamic Society of North America (ISNA)",
+          "params": { "Fajr": 15, "Isha": 15 },
+          "location": {
+            "latitude": 39.70421229999999,
+            "longitude": -86.39943869999999
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "05:58 (GMT)",
+        "Sunrise": "07:34 (GMT)",
+        "Dhuhr": "12:14 (GMT)",
+        "Asr": "14:29 (GMT)",
+        "Sunset": "16:56 (GMT)",
+        "Maghrib": "16:56 (GMT)",
+        "Isha": "18:31 (GMT)",
+        "Imsak": "05:48 (GMT)",
+        "Midnight": "00:15 (GMT)",
+        "Firstthird": "21:49 (GMT)",
+        "Lastthird": "02:41 (GMT)"
+      },
+      "date": {
+        "readable": "05 Feb 2016",
+        "timestamp": "1454662861",
+        "gregorian": {
+          "date": "05-02-2016",
+          "format": "DD-MM-YYYY",
+          "day": "05",
+          "weekday": { "en": "Friday" },
+          "month": { "number": 2, "en": "February" },
+          "year": "2016",
+          "designation": { "abbreviated": "AD", "expanded": "Anno Domini" }
+        },
+        "hijri": {
+          "date": "25-04-1437",
+          "format": "DD-MM-YYYY",
+          "day": "25",
+          "weekday": {
+            "en": "Al Juma'a",
+            "ar": "\u0627\u0644\u062c\u0645\u0639\u0629"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rab\u012b\u02bf al-th\u0101n\u012b",
+            "ar": "\u0631\u064e\u0628\u064a\u0639 \u0627\u0644\u062b\u0627\u0646\u064a"
+          },
+          "year": "1437",
+          "designation": { "abbreviated": "AH", "expanded": "Anno Hegirae" },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 51.508515,
+        "longitude": -0.1254872,
+        "timezone": "Europe/London",
+        "method": {
+          "id": 2,
+          "name": "Islamic Society of North America (ISNA)",
+          "params": { "Fajr": 15, "Isha": 15 },
+          "location": {
+            "latitude": 39.70421229999999,
+            "longitude": -86.39943869999999
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "05:57 (GMT)",
+        "Sunrise": "07:32 (GMT)",
+        "Dhuhr": "12:15 (GMT)",
+        "Asr": "14:30 (GMT)",
+        "Sunset": "16:58 (GMT)",
+        "Maghrib": "16:58 (GMT)",
+        "Isha": "18:33 (GMT)",
+        "Imsak": "05:47 (GMT)",
+        "Midnight": "00:15 (GMT)",
+        "Firstthird": "21:49 (GMT)",
+        "Lastthird": "02:41 (GMT)"
+      },
+      "date": {
+        "readable": "06 Feb 2016",
+        "timestamp": "1454749261",
+        "gregorian": {
+          "date": "06-02-2016",
+          "format": "DD-MM-YYYY",
+          "day": "06",
+          "weekday": { "en": "Saturday" },
+          "month": { "number": 2, "en": "February" },
+          "year": "2016",
+          "designation": { "abbreviated": "AD", "expanded": "Anno Domini" }
+        },
+        "hijri": {
+          "date": "26-04-1437",
+          "format": "DD-MM-YYYY",
+          "day": "26",
+          "weekday": {
+            "en": "Al Sabt",
+            "ar": "\u0627\u0644\u0633\u0628\u062a"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rab\u012b\u02bf al-th\u0101n\u012b",
+            "ar": "\u0631\u064e\u0628\u064a\u0639 \u0627\u0644\u062b\u0627\u0646\u064a"
+          },
+          "year": "1437",
+          "designation": { "abbreviated": "AH", "expanded": "Anno Hegirae" },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 51.508515,
+        "longitude": -0.1254872,
+        "timezone": "Europe/London",
+        "method": {
+          "id": 2,
+          "name": "Islamic Society of North America (ISNA)",
+          "params": { "Fajr": 15, "Isha": 15 },
+          "location": {
+            "latitude": 39.70421229999999,
+            "longitude": -86.39943869999999
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "05:55 (GMT)",
+        "Sunrise": "07:30 (GMT)",
+        "Dhuhr": "12:15 (GMT)",
+        "Asr": "14:32 (GMT)",
+        "Sunset": "17:00 (GMT)",
+        "Maghrib": "17:00 (GMT)",
+        "Isha": "18:35 (GMT)",
+        "Imsak": "05:45 (GMT)",
+        "Midnight": "00:15 (GMT)",
+        "Firstthird": "21:50 (GMT)",
+        "Lastthird": "02:40 (GMT)"
+      },
+      "date": {
+        "readable": "07 Feb 2016",
+        "timestamp": "1454835661",
+        "gregorian": {
+          "date": "07-02-2016",
+          "format": "DD-MM-YYYY",
+          "day": "07",
+          "weekday": { "en": "Sunday" },
+          "month": { "number": 2, "en": "February" },
+          "year": "2016",
+          "designation": { "abbreviated": "AD", "expanded": "Anno Domini" }
+        },
+        "hijri": {
+          "date": "27-04-1437",
+          "format": "DD-MM-YYYY",
+          "day": "27",
+          "weekday": {
+            "en": "Al Ahad",
+            "ar": "\u0627\u0644\u0627\u062d\u062f"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rab\u012b\u02bf al-th\u0101n\u012b",
+            "ar": "\u0631\u064e\u0628\u064a\u0639 \u0627\u0644\u062b\u0627\u0646\u064a"
+          },
+          "year": "1437",
+          "designation": { "abbreviated": "AH", "expanded": "Anno Hegirae" },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 51.508515,
+        "longitude": -0.1254872,
+        "timezone": "Europe/London",
+        "method": {
+          "id": 2,
+          "name": "Islamic Society of North America (ISNA)",
+          "params": { "Fajr": 15, "Isha": 15 },
+          "location": {
+            "latitude": 39.70421229999999,
+            "longitude": -86.39943869999999
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "05:54 (GMT)",
+        "Sunrise": "07:28 (GMT)",
+        "Dhuhr": "12:15 (GMT)",
+        "Asr": "14:33 (GMT)",
+        "Sunset": "17:02 (GMT)",
+        "Maghrib": "17:02 (GMT)",
+        "Isha": "18:36 (GMT)",
+        "Imsak": "05:44 (GMT)",
+        "Midnight": "00:15 (GMT)",
+        "Firstthird": "21:51 (GMT)",
+        "Lastthird": "02:40 (GMT)"
+      },
+      "date": {
+        "readable": "08 Feb 2016",
+        "timestamp": "1454922061",
+        "gregorian": {
+          "date": "08-02-2016",
+          "format": "DD-MM-YYYY",
+          "day": "08",
+          "weekday": { "en": "Monday" },
+          "month": { "number": 2, "en": "February" },
+          "year": "2016",
+          "designation": { "abbreviated": "AD", "expanded": "Anno Domini" }
+        },
+        "hijri": {
+          "date": "28-04-1437",
+          "format": "DD-MM-YYYY",
+          "day": "28",
+          "weekday": {
+            "en": "Al Athnayn",
+            "ar": "\u0627\u0644\u0627\u062b\u0646\u064a\u0646"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rab\u012b\u02bf al-th\u0101n\u012b",
+            "ar": "\u0631\u064e\u0628\u064a\u0639 \u0627\u0644\u062b\u0627\u0646\u064a"
+          },
+          "year": "1437",
+          "designation": { "abbreviated": "AH", "expanded": "Anno Hegirae" },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 51.508515,
+        "longitude": -0.1254872,
+        "timezone": "Europe/London",
+        "method": {
+          "id": 2,
+          "name": "Islamic Society of North America (ISNA)",
+          "params": { "Fajr": 15, "Isha": 15 },
+          "location": {
+            "latitude": 39.70421229999999,
+            "longitude": -86.39943869999999
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "05:52 (GMT)",
+        "Sunrise": "07:27 (GMT)",
+        "Dhuhr": "12:15 (GMT)",
+        "Asr": "14:35 (GMT)",
+        "Sunset": "17:04 (GMT)",
+        "Maghrib": "17:04 (GMT)",
+        "Isha": "18:38 (GMT)",
+        "Imsak": "05:42 (GMT)",
+        "Midnight": "00:15 (GMT)",
+        "Firstthird": "21:51 (GMT)",
+        "Lastthird": "02:39 (GMT)"
+      },
+      "date": {
+        "readable": "09 Feb 2016",
+        "timestamp": "1455008461",
+        "gregorian": {
+          "date": "09-02-2016",
+          "format": "DD-MM-YYYY",
+          "day": "09",
+          "weekday": { "en": "Tuesday" },
+          "month": { "number": 2, "en": "February" },
+          "year": "2016",
+          "designation": { "abbreviated": "AD", "expanded": "Anno Domini" }
+        },
+        "hijri": {
+          "date": "29-04-1437",
+          "format": "DD-MM-YYYY",
+          "day": "29",
+          "weekday": {
+            "en": "Al Thalaata",
+            "ar": "\u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rab\u012b\u02bf al-th\u0101n\u012b",
+            "ar": "\u0631\u064e\u0628\u064a\u0639 \u0627\u0644\u062b\u0627\u0646\u064a"
+          },
+          "year": "1437",
+          "designation": { "abbreviated": "AH", "expanded": "Anno Hegirae" },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 51.508515,
+        "longitude": -0.1254872,
+        "timezone": "Europe/London",
+        "method": {
+          "id": 2,
+          "name": "Islamic Society of North America (ISNA)",
+          "params": { "Fajr": 15, "Isha": 15 },
+          "location": {
+            "latitude": 39.70421229999999,
+            "longitude": -86.39943869999999
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "05:51 (GMT)",
+        "Sunrise": "07:25 (GMT)",
+        "Dhuhr": "12:15 (GMT)",
+        "Asr": "14:36 (GMT)",
+        "Sunset": "17:05 (GMT)",
+        "Maghrib": "17:05 (GMT)",
+        "Isha": "18:39 (GMT)",
+        "Imsak": "05:41 (GMT)",
+        "Midnight": "00:15 (GMT)",
+        "Firstthird": "21:52 (GMT)",
+        "Lastthird": "02:38 (GMT)"
+      },
+      "date": {
+        "readable": "10 Feb 2016",
+        "timestamp": "1455094861",
+        "gregorian": {
+          "date": "10-02-2016",
+          "format": "DD-MM-YYYY",
+          "day": "10",
+          "weekday": { "en": "Wednesday" },
+          "month": { "number": 2, "en": "February" },
+          "year": "2016",
+          "designation": { "abbreviated": "AD", "expanded": "Anno Domini" }
+        },
+        "hijri": {
+          "date": "30-04-1437",
+          "format": "DD-MM-YYYY",
+          "day": "30",
+          "weekday": {
+            "en": "Al Arba'a",
+            "ar": "\u0627\u0644\u0627\u0631\u0628\u0639\u0627\u0621"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rab\u012b\u02bf al-th\u0101n\u012b",
+            "ar": "\u0631\u064e\u0628\u064a\u0639 \u0627\u0644\u062b\u0627\u0646\u064a"
+          },
+          "year": "1437",
+          "designation": { "abbreviated": "AH", "expanded": "Anno Hegirae" },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 51.508515,
+        "longitude": -0.1254872,
+        "timezone": "Europe/London",
+        "method": {
+          "id": 2,
+          "name": "Islamic Society of North America (ISNA)",
+          "params": { "Fajr": 15, "Isha": 15 },
+          "location": {
+            "latitude": 39.70421229999999,
+            "longitude": -86.39943869999999
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    }
+  ]
+}
